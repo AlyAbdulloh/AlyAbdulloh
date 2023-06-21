@@ -4,5 +4,5 @@
     <a href="https://www.instagram.com/achmd_aly"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuizzuddinRifqi&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuizzuddinRifqi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyAbdulloh&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyAbdulloh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
