@@ -17,6 +17,7 @@
 <!-- <img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"> -->
 <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
 </p>
