@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Achmad Aly Abdulloh 👋</h1>
+<h1 align="center">Hi I'm Achmad Aly Abdulloh</h1>
 <br><br><br>
 
 ## Social Media
