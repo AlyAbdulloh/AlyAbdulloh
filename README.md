@@ -19,3 +19,15 @@
 <img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
 </p>
+
+### Github Statistic
+<p align="center">
+  <a href="https://github.com/AlyAbdulloh">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlyAbdulloh&theme=tokyonight&hide_border=true" alt="AlyAbdulloh's GitHub streak"/>
+  </a>
+</p>
+<a> 
+  <a href="https://github.com/AlyAbdulloh"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AlyAbdulloh&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/AlyAbdulloh"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AlyAbdulloh&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
