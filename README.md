@@ -1,10 +1,5 @@
 <h1 align="center">Hi I'm Achmad Aly Abdulloh</h1>
 <br><br><br>
-
-## Social Media
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achmad-aly-abdulloh-975035221/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=plastic&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:achmadalyabdulloh@gmail.com)
-
 ## Languages and Tools
 
 <p align="center">
