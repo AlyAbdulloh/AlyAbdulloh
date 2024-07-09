@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Achmad Aly Abdulloh</h1>
+<h1 align="center">Hi 👋, I'm Achmad Aly Abdullo</h1>
 <br>
 
 ### Languages and Tools
