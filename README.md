@@ -2,6 +2,7 @@
 <br>
 
 ### Languages and Tools
+<p align="center">
 <img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
